@@ -1,6 +1,6 @@
-! Title: stoicsubroutine's filters – Minimal GitHub
+! Title: filters for minimal web – GitHub
 ! Description: GitHub without distractions, social media and gamification
-! Homepage: https://github.com/stoicsubroutine/filters-for-minimal-web
+! Homepage: https://github.com/surrealreverie/filters-for-minimal-web
 ! Expires: 7 days
 
 ! Hide feeds and footer from the dashboard page

@@ -1,6 +1,6 @@
-! Title: stoicsubroutine's filters – Minimal YouTube
+! Title: filters for minimal web – YouTube
 ! Description: Decluttered YouTube for finding and watching videos
-! Homepage: https://github.com/stoicsubroutine/filters-for-minimal-web
+! Homepage: https://github.com/surrealreverie/filters-for-minimal-web
 ! Expires: 7 days
 
 ! Hide sign in button
