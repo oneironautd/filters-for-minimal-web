@@ -35,6 +35,7 @@ github.com##a[data-tab-item="stars"][data-turbo-frame="user-profile-frame"]
 
 ! Hide stargazers
 github.com##a[href$="/stargazers"]
+github.com##a[href$="/stargazers"] + span:has-text(•)
 github.com##.search-results-page li:has(> a[href$="/stargazers"]) + span
 
 ! Hide repository watch count and watchers
